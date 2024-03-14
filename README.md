@@ -16,7 +16,7 @@ Overall, a vector store enables **efficient** storage and retrieval of vector **
 
 
 <details>
-    <summary><b>Word2Vec<b></summary>
+    <summary><b>Word2Vec</b></summary>
         <hr>
 Word2Vec is a popular technique used to generate vector representations of words. Here's how it works:
 
@@ -33,7 +33,7 @@ So, in this example, the Word2Vec model serves as a vector store where words are
 
 
 <details>
-    <summary>**FAISS (Facebook AI Similarity Search)**</summary>
+    <summary>FAISS (Facebook AI Similarity Search)</summary>
 
    FAISS is an efficient library developed by Facebook AI Research for similarity search and clustering of dense vectors. It's particularly useful for large-scale vector retrieval tasks commonly encountered in machine learning and information retrieval applications. FAISS is designed to handle high-dimensional data efficiently and is optimized for both CPU and GPU computation.
 
@@ -46,7 +46,7 @@ So, in this example, the Word2Vec model serves as a vector store where words are
    FAISS is widely used in various applications including image retrieval, recommendation systems, natural language processing, and more, where fast and scalable similarity search is crucial. 📊💻
 </details>
 <details>
-    <summary>****ChromDB****</summary> 
+    <summary>ChromDB</summary> 
     <hr>
     
    ChromDB, or Chromatin State Database, is a resource used in the field of genomics and epigenetics. It provides information about the chromatin states across the genome, which are crucial for understanding gene regulation and cellular function.
