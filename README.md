@@ -60,5 +60,5 @@ So, in this example, the Word2Vec model serves as a vector store where words are
    - Contribution to the understanding of gene regulation, development, and disease mechanisms.
 
    ChromDB is an essential resource for researchers studying epigenetics, chromatin biology, and gene regulation, providing valuable insights into the functional organization of the genome. 🧬🔍
-
+ <hr>
 </details>
