@@ -43,7 +43,7 @@ So, in this example, the Word2Vec model serves as a vector store where words are
    - Ability to handle billions of vectors efficiently by leveraging techniques like compression and quantization.
    - Integration with popular deep learning frameworks like PyTorch and TensorFlow.
 
-   FAISS is widely used in various applications including image retrieval, recommendation systems, natural language processing, and more, where fast and scalable similarity search is crucial. 📊💻
+   FAISS is widely used in various applications including image retrieval, recommendation systems, natural language processing, and more, where fast and scalable similarity search is crucial.  📊💻
 </details>
 <details>
     <summary><b>ChromDB</b></summary> 
