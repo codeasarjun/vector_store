@@ -2,7 +2,7 @@
 
 A vector store is a data structure or database designed to efficiently store and retrieve vector embeddings. In natural language processing and machine learning, vector embeddings are numerical representations of words, phrases, or documents in a high-dimensional vector space.
 
-Here's a simple explanation:
+Here's a simple explanation: <!--Need to add vectore structure-->
 
 🗄️ **Vector Store**: Think of it as a big library, where each item is stored along with its unique numerical representation (vector). Each item has its own set of numbers that represent its meaning and context.
 
